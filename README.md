@@ -1,16 +1,13 @@
-### Hi there 👋
+### Привет 👋
 
-<!--
-**masanya99/masanya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студентка Прикладной математики в Финансовом университете, я выкладываю сюда свои работы в основном на Python.
 
-Here are some ideas to get you started:
+- 🌱 Cейчас изучаю Data Science и Machine Learning.
+- 📫 Связаться со мной: [@anbananova][telegram]
+- ⚡ Интересный факт: могу на французском сказать, что я живу в Москве.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masanya99&hide=jupyter%20notebook)](https://github.com/masanya99/github-readme-stats)
+[![Masanya99 github stats](https://github-readme-stats.vercel.app/api?username=masanya99)](https://github.com/masanya99/github-readme-stats)
+---
+[telegram]: https://t.me/anbananova
