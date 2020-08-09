@@ -10,6 +10,9 @@
 
 ### 📊 На этой неделе я потратила свое время на:
 <!--START_SECTION:waka-->
+```text
+Other   5 hrs 27 mins   █████████████████████████   100.00 %
+```
 <!--END_SECTION:waka-->
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masanya99&hide=TeX)](https://github.com/masanya99/github-readme-stats)
