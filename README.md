@@ -13,7 +13,7 @@
 ### 📊 На этой неделе я потратила свое время на:
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---
